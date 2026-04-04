@@ -1,3 +1,8 @@
+/*Question Number: 1464
+Level: Easy
+Topic Covered:Array Sorting
+Date: 2nd April 2026
+ */
 public class MaxProduct {
         public int maxProduct(int[] nums) {
             int secondMax=0;
